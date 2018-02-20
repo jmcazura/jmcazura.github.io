@@ -1,3 +1,0 @@
-[submodule "my-portfolio"]
-	path = my-portfolio
-	url = git@gitlab.com:don6/my-portfolio.git
